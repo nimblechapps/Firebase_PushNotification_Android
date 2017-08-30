@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784728270862",
+    "firebase_url": "https://fir-nimbchapps.firebaseio.com",
+    "project_id": "fir-nimbchapps",
+    "storage_bucket": "fir-nimbchapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784728270862:android:054a5a02f50768ed",
+        "android_client_info": {
+          "package_name": "practicals.demo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784728270862-mpd61g95dfcrtoqd8pc45tt7am2l2s21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "practicals.demo.firebase",
+            "certificate_hash": "b6538b54b96b870fa29c86efc2d0767622122a05"
+          }
+        },
+        {
+          "client_id": "784728270862-cfqos8cdi9daukuosj1uh2thchtc10bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC44Ybdeyt-yZtEyajZkRmtR2ZQrTUs9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784728270862-cfqos8cdi9daukuosj1uh2thchtc10bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
